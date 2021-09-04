@@ -2,7 +2,7 @@
 https://gitcoin.co/issue/nervosnetwork/grants/10/
 
 1) A screenshot of the console output immediately after running the withdraw command.
-![Withdraw](./task9-withdraw.png)
+![Withdraw](./task9-withdraw.PNG)
 2) The Ethereum address that you've used for your Layer 2 account (in text format).
 ```
 0xA7F3f36Eb573D870aBf19A470eb0d878d395fe87
