@@ -9,16 +9,13 @@ https://explorer.nervos.org/aggron/address/ckt1qyqpkjh53s4wt8exyzk0u6dtjlvwajss9
 ![deposit-output](./3-deposit-output.PNG)
 4) A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 ![contract-call](./4-contract-call.PNG)
-
-_____________________________________________
-
 5) The transaction hash of the "Contract call" from the console output (in text format).
 ```
-assd
+0x5092b088a76c86eb3761026ca16d9b5698cea42a75054f387d85a953e23efcfc
 ```
 6) The contract address that you called (in text format).
 ```
-sta
+0x187f3D120DAF436a1cA875d79Cf1d461ADeA2f48
 ```
 7) The ABI for contract you made a call on (in text format).
 ```
@@ -60,4 +57,5 @@ sta
 8) Your Tron address (in text format).
 ```
 TTqdN4pdKo6MVnL9s1L2DyRuJfjMz7hwpx
+0xc40345e069D70b3853FA53D3268e3bE1eC1F8eC3
 ```
